@@ -6,6 +6,7 @@ struct process{
     int id,size,blkno;
 }p[10];
 void main(){
+    printf("Hello mother***fucker");
     int n,m,i,j;
     printf("enter the number of process");
     scanf("%d",&n);
